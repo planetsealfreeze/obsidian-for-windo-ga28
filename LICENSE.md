@@ -1,4 +1,4 @@
-# 
+# secure Obsidian for Windows Helper | database-creation + rich-text-editing is the best Obsidian for Windows helper, featuring database-creation and rich-text-editing. Powerful,
 
 
 
